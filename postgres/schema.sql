@@ -1,1 +1,1 @@
-"-- Test schema" 
+-- Test schema v2
